@@ -14,7 +14,11 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
+
+setInterval(() => {
   
+}, 1000);
+
   return [];
 }
 
